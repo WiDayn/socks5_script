@@ -1,5 +1,7 @@
 # Socks5 Proxy Management Script
 
+Tested in `Debian 12.2`
+
 ## UI
 ```bash
 ========================================
