@@ -40,10 +40,10 @@ Dante service status: 2025-11-15 17:58:27
 ## Usage
 ### English Version
 ```bash
-./script.en.sh
+wget https://raw.githubusercontent.com/WiDayn/socks5_script/refs/heads/main/script.en.sh && chmod +x ./script.en.sh && ./script.en.sh
 ```
 
 ### Chinese Version
 ```bash
-./script.sh
+wget https://raw.githubusercontent.com/WiDayn/socks5_script/refs/heads/main/script.cn.sh && chmod +x ./script.cn.sh && ./script.cn.sh
 ```
